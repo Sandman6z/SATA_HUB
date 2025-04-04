@@ -1,1 +1,7 @@
-Record=TopLevelDocument|FileName=USB_HUB_VL813.SchDoc|SheetNumber= 
+Record=TopLevelDocument|FileName=4USB.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=4USB.SchDoc|FileName=FLASH.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=4USB.SchDoc|FileName=INPUT.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=4USB.SchDoc|FileName=Main.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=4USB.SchDoc|FileName=Port.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=4USB.SchDoc|FileName=Power.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=4USB.SchDoc|FileName=USB-SATA.schdoc|SheetNumber= 
